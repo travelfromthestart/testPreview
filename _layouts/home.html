@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<style>
+  @font-face {
+    font-family: 'BrittanySignature';
+    src: url('/assets/fonts/BrittanySignature.ttf') format('truetype');
+  }
+</style>
 
 <!-- Page Header -->
 {% if page.background %}
@@ -13,9 +19,9 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
-            <h1>{{ site.title }}</h1>
+            <h1 style="font-size:3.3em; margin-bottom: 0.5em;">{{ site.title }}</h1>
             {% if site.description %}
-            <span class="subheading">{{ site.description }}</span>
+            <span class="subheading" style="font-family: 'BrittanySignature'; font-size:2em;">{{ site.description }}</span>
             {% endif %}
           </div>
         </div>
@@ -25,7 +31,7 @@ layout: default
 
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="col-lg-9 col-md-11 mx-auto">
 
         {{ content }}
 
@@ -41,13 +47,7 @@ layout: default
             <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
             {% endif %}
           </a>
-          <p class="post-meta">Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
-            on
+          <p class="post-meta">
             {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
           </p>
         </article>
