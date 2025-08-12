@@ -3,7 +3,7 @@ layout: post
 title: "Travel with Young Kids: Getting Started"
 subtitle: "Ways to create a solid foundation"
 date: 2025-07-20
-background: '/img/posts/05.jpg'
+background: '/img/posts/getting started - banner.png'
 ---
 
 Before taking an international trip, we wanted to try to have a solid foundation for our kids to travel. To me, one of the main ways we can help kids be good travelers is to practice *flexibility*. Luckily, this benefits us every day of our lives, traveling or not. Of course, flexibility doesn’t *guarantee* smooth travel days… far from it! However, it means that you will be helping move in the direction of kids who can better adapt to what is in store on ever-changing and unpredictable travel days.

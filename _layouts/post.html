@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<style>
+  @font-face {
+    font-family: 'BrittanySignature';
+    src: url('/assets/fonts/BrittanySignature.ttf') format('truetype');
+  }
+</style>
 
 <!-- Page Header -->
 {% if page.background %}
@@ -15,7 +21,7 @@ layout: default
           <div class="post-heading">
             <h1>{{ page.title }}</h1>
             {% if page.subtitle %}
-            <h2 class="subheading">{{ page.subtitle }}</h2>
+            <h2 class="subheading" style="font-family: 'BrittanySignature'"";>{{ page.subtitle }}</h2>
             {% endif %}
             <span class="meta">
               {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html

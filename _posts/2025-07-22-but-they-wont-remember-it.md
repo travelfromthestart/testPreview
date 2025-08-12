@@ -3,7 +3,7 @@ layout: post
 title: "\"But They Won't Remember It\""
 subtitle: "Reasons to absolutely go anyway"
 date: 2025-07-22
-background: '/img/posts/05.jpg'
+background: '/img/posts/But they wont remember - banner.jpg'
 ---
 
 If you've completed or aspired to any international travel destination with your children (or any destination that people consider expensive or far away), you have likely heard direct or implied versions of the above statement. People typically believe that the financial cost and the inconvenience of travel with children is so great that you could not possibly be accurately weighing the pros and cons of this plan of yours. Here's the honest truth... in the youngest of travelers, they are completely correct. The child is not laying down specific memories of the time they are spending on that trip. In all likelihood, your one-year-old will never recall explicit memories from the Switzerland trip you spent a year planning. 
