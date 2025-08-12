@@ -23,7 +23,7 @@ I would argue that a lot of the important work is the prep work (browse my site 
 
 My goal is not to have you purchase more products, so let’s start with what makes a good travel toy, so you can first shop your own toy closet!
 
-![backpacks](/img/posts/travel toys.jpg){: width="400" style="display:block; margin:auto;" }
+![backpacks](/testPreview/img/posts/travel toys.jpg){: width="400" style="display:block; margin:auto;" }
 
 Here’s what we’re looking for (ideally each toy fits not one but all of the following):
 - **Compact**
